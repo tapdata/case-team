@@ -56,4 +56,19 @@
     "user_id" : "62bc5008d4958d013d97c7a6",
     "value" : "dmp merge mdm"
   }
+}, {
+  "collectionName" : "MetadataDefinition",
+  "json" : {
+    "apiCount" : 0,
+    "createTime" : 1774947075169,
+    "createUser" : "cpicase-martin",
+    "desc" : "",
+    "id" : "69cb8b03bda877370a5f0351",
+    "item_type" : [ "app" ],
+    "lastUpdBy" : "69c6449cb9dbbccec453fb5f",
+    "objCount" : 0,
+    "publishedApiCount" : 0,
+    "user_id" : "69c6449cb9dbbccec453fb5f",
+    "value" : "cpi case"
+  }
 } ]

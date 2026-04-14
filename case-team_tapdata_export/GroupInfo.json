@@ -6,7 +6,7 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/tapdata/case-team.git"
     },
-    "id" : "69ddb2136642bbda59fcfaf6",
+    "id" : "69ddb22f6642bbda59fcfaf8",
     "name" : "case-team",
     "resetTaskList" : [ ],
     "resourceItemList" : [ {
@@ -37,6 +37,10 @@
       "id" : "69cb88e6bda877370a5efce8",
       "name" : "MDM_cpi_case",
       "type" : "SYNC_TASK"
+    }, {
+      "id" : "69dcbe062c91b19b32604190",
+      "name" : "cpi_case_v1",
+      "type" : "MODULE"
     } ],
     "user_id" : "69c6449cb9dbbccec453fb5f"
   }
